@@ -1,0 +1,16 @@
+{
+  "name": "private_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "private_wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  }
+}
